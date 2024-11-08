@@ -5,3 +5,4 @@ seaborn
 torch
 scipy
 tqdm
+groq
