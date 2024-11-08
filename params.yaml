@@ -1,0 +1,12 @@
+# Grid search hyperparameters
+grid_search:
+  latent_dims: [16, 32]
+  hidden_dims: [32, 64]
+  learning_rates: [0.001]
+
+train:
+  num_epochs: 3
+
+threshold: 
+  percentile: 95
+  k: 3
