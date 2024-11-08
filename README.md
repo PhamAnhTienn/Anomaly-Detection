@@ -39,3 +39,7 @@ python main.py
 ## Configuration
 
 Parameters such as model settings, training details, and data paths are configured in the params.yaml file, making it easy to adapt the project to different datasets or use cases.
+
+## References
+
+[1] S. Lin, R. Clark, R. Birke, S. Schönborn, N. Trigoni and S. Roberts, "Anomaly Detection for Time Series Using VAE-LSTM Hybrid Model," ICASSP 2020 - 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Barcelona, Spain, 2020, pp. 4322-4326, doi: 10.1109/ICASSP40776.2020.9053558. keywords: {Correlation;Time series analysis;Signal processing;Detection algorithms;Speech processing;Anomaly detection;Unsupervised learning;Anomaly Detection;Time Series;Deep Learning;Unsupervised Learning},
